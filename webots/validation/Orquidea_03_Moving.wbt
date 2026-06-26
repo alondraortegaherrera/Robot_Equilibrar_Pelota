@@ -14,8 +14,8 @@ WorldInfo {
   ]
 }
 Viewpoint {
-  orientation -0.2541831502666161 -0.159217678293585 0.9539605112578505 4.218837313083456
-  position -3.134270853646906 10.488349564843398 7.590271469412149
+  orientation -0.20224137947071616 -0.12951525285338555 0.9707338583299263 4.253990643091478
+  position -0.9238949535405844 12.438039306206305 7.240995226463168
 }
 TexturedBackground {
 }
@@ -412,6 +412,6 @@ Robot {
     Receiver {
     }
   ]
-  controller "supervisor_mantis_inner"
+  controller "supervisor_mantis_moving"
   supervisor TRUE
 }

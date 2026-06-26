@@ -412,6 +412,6 @@ Robot {
     Receiver {
     }
   ]
-  controller "supervisor_mantis_inner"
+  controller "supervisor_mantis_outer"
   supervisor TRUE
 }
