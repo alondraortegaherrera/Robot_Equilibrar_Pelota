@@ -1,6 +1,6 @@
 # Hexápodo que equilibra una pelota en su espalda
 
-Repositorio con los recursos para la simulación y validación de un robot hexápodo (Mantis) equilibrando una pelota en Webots.
+Repositorio con los recursos para la simulación y validación de un robot hexápodo (Mantis) que equilibra una pelota en Webots.
 
 ### Contenido del repositorio
 * **/colab**: Código (`entrenamientos_mantis_babbling_final.py`) y datasets del entrenamiento.
