@@ -1,4 +1,4 @@
-# Robot_Equilibrar_Pelota
+# Hexápodo que equilibra una pelota en su espalda
 
 Repositorio con los recursos para la simulación y validación de un robot hexápodo (Mantis) equilibrando una pelota en Webots.
 
